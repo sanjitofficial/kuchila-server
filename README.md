@@ -8,7 +8,7 @@ Designed for developers who need quick local hosting or secure LAN sharing of fi
 
 #### Clone the repository
 ```sh
-git clone https://github.com/<your-username>/kuchila-server.git
+git clone https://github.com/sanjitofficial/kuchila-server.git
 cd kuchila-server
 ```
 
