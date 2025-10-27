@@ -1,4 +1,4 @@
-# KUCHILA SERVER🌍
+# KUCHILA SERVER 🌍
 
 A lightweight, Python-based local web server that intelligently detects whether a directory should be served as a static web app or a file manager.
 Designed for developers who need quick local hosting or secure LAN sharing of files with thumbnail previews and bulk download support.
